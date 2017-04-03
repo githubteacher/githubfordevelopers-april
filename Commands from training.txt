@@ -19,20 +19,22 @@ git commit -m "commit staging changes to active branch"
 clone : clone the repo maintaining the remote url
 fork : fork someone's branch from his repo to a branch in your repository
 
-solve merges :
-Step 1: From your project repository, bring in the changes and test.
-git fetch origin
-git checkout -b shidhupatil1149 origin/shidhupatil1149
-git merge master
+# solve merges :
+  Step 1: From your project repository, bring in the changes and test.
+  git fetch origin
+  git checkout -b shidhupatil1149 origin/shidhupatil1149
+  git merge master
 
-Step 2: Merge the changes and update on GitHub.
-git checkout master
-git merge --no-ff shidhupatil1149
-git push origin master
+  Step 2: Merge the changes and update on GitHub.
+  git checkout master
+  git merge --no-ff shidhupatil1149
+  git push origin master
 
-
-# Siddh
-### eat
-- bullet point
-### avoid
--
+# Try cleaning-up your local repository with: if you get any error while pull / fetch/ push
+$ git gc --prune=now
+    - Runs a number of housekeeping tasks within the current repository, such as compressing file revisions (to reduce disk space and increase performance) and removing unreachable objects which may have been
+   created from prior invocations of git add.
+$ git remote prune origin
+    - Deletes all stale remote-tracking branches under <name>. These stale branches have already been
+           removed from the remote repository referenced by <name>, but are still locally available in
+           "remotes/<name>".
