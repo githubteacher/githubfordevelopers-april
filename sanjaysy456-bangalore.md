@@ -9,5 +9,5 @@
 -zoo
 
 #### places to avoid
--hills
--park
+-hills(it's  rainy)
+-park( wild animals)
