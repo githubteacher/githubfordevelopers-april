@@ -1,0 +1,9 @@
+git clone https://github.com/githubteacher/githubfordevelopers-april.git
+git config --global --list
+git config --global user.name "Siddheshwar Patil"
+git config --global user.email "shidhupatil1149@gmail.com"
+windows : git config --global core.autocrlf true
+Linux : git config --global core.autocrlf input
+git config --global push.default simple
+Show all of the branche on remote : git branch --all
+git checkout shidhupatil1149
