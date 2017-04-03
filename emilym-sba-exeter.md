@@ -7,6 +7,7 @@
 ### Places to Visit
 - Kaweah Lake
 - General Sherman
+- The Lodge
 
 ### Places to Avoid
 - The Orange Groves
