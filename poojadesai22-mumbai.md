@@ -10,4 +10,4 @@
 - Elephanta Caves
 
 ### Places to Avoid
-- Railway Stations
+- Railway Stations (VERY Busy and Crowded)
