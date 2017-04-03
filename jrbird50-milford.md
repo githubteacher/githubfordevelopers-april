@@ -8,3 +8,5 @@
 
 ### places to avoid
 - park
+- city pool
+- city dump
