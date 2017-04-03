@@ -38,4 +38,3 @@ $ git remote prune origin
     - Deletes all stale remote-tracking branches under <name>. These stale branches have already been
            removed from the remote repository referenced by <name>, but are still locally available in
            "remotes/<name>".
->>>>>>> 474a3078e15d46f96b7c774f437f2ef53163afab
