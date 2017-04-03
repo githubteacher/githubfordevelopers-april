@@ -2,7 +2,7 @@
 
 ### Places to eat
 
--oak and dagger
+- oak and dagger (burgers are good there)
 
 ### Places to visit
 
