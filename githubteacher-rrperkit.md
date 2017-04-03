@@ -1,19 +1,17 @@
 # GitHub for Developers
-# Let's make a change
-# A really, really big change
 
 - Facilitator:
   - @hollenberry :microphone:
 - On Chat
   - @brianamarie :computer:
 
-## Scripts for Adding Files, test
+## Scripts for Adding Files
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
 - **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
 
 ## Resources
-## Test
+
 - [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [Git Cheat Sheets](https://services.github.com/resources/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
