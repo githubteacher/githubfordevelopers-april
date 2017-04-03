@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ckimaru-nashua.md
+=======
+>>>>>>> f9693fbed40feaebbefc9caffc731beb0000fc96
 # Nashua, NH
 - Some place
 ### Places to eat
