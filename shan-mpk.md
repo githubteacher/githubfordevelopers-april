@@ -8,4 +8,4 @@
 - bay trail
 
 ### places to avoid
-- east palo alto
+- east palo alto (not a friendly neighbourhood)
