@@ -11,3 +11,4 @@
 
 ### Places to avoid
  - Tree Streets
+ - DW Highway at xmas
