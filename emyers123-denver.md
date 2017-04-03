@@ -8,6 +8,7 @@
 
 ### Places to Visit
 - Flatirons
+- Mountains
 
 ### Places to Avoid
 - Parking lots
