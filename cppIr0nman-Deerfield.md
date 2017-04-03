@@ -8,4 +8,4 @@
 - Mitchell's Park
 
 ### Places to Avoid
-- Police Station
+- Police Station (I think it is very uncomfortable - did not experienced it LOL)
