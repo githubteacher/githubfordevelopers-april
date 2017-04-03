@@ -4,5 +4,5 @@
 - Giordano's
 
 ### Places to Visit
-
+- Sear's Tower
 ### Places to Avoid
