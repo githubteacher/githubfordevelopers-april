@@ -10,4 +10,4 @@
 - Alcazaba
 
 ### Places to Avoid
-- Los Colorines district
+- Los Colorines district (people can be mean).
