@@ -1,7 +1,12 @@
 # Norfolk,VA
 
 ### Places to Eat
+- SUBWAY
+- THAI PLACE
 
-### Places to visualizing-git
+### Places to visit
+- Powotan
+- ODU
 
 ### Places to Avoid
+- XYZ
