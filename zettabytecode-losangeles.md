@@ -6,3 +6,4 @@
  -Disney
  ### Places to Avoid
  -South Central
+ -East LA
