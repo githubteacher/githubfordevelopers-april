@@ -1,3 +1,4 @@
-# HOMETOWN recommendations
-## Places to Eat
-## Fun Things to Do
+# Exeter, CA
+### Places to Eat
+### Places to Visit
+### Places to Avoid
