@@ -2,7 +2,7 @@
 
  ### Places to eat
  - City Tacos
- - Slater's 50/50
+ - The Chinese Place
  - Pizza Place
 
  ### Places to visit
