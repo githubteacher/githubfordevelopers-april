@@ -11,3 +11,4 @@
 
 ### Places to Avoid
 - East County
+- add more place to avoid
