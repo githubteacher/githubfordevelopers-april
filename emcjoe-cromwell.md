@@ -9,4 +9,4 @@
 - Pennycorner Pub
 
 ### Places to Avoid
-- Pennycorner Pub
+- Pennycorner Pub - some nights it's good, others not so much
