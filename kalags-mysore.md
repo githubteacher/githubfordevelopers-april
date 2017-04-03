@@ -9,4 +9,4 @@
 - Zoo
 
 ### Places to avoid
-- None
+- Azad nagar
