@@ -8,6 +8,7 @@
 ### Places to Visit
 - Freedom Trail
 - MIT
+- City Hall
 
 ### Places to Avoid
 - Harvard
