@@ -11,3 +11,4 @@
 
 ### Places to avoid
 - cidades satélites mais distantes do plano piloto
+- other places
