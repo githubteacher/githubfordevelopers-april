@@ -9,5 +9,5 @@
 - Charminar
 - Tankbund
 ### Places to Avoid
-- Roadside Food
-- Traffic 
+- Roadside Food (very danger it's not hygenic )
+ 
