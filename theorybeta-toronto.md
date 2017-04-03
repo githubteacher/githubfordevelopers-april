@@ -8,6 +8,7 @@
 ### Places to Visit
 -New Zealand
 -Australia
+-Iceland
 
 ### Places to Avoid
 -the hood
