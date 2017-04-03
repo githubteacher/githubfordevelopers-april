@@ -7,4 +7,4 @@
 - Nothing to see here
 
 ### Places to Avoid
-- Eden Prairie
+- Eden Prairie (see Places to Visit)
