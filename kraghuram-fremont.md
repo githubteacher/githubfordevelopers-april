@@ -9,6 +9,6 @@
 - Mission peak
 
 ### Places to avoid
-- Downtown
+- Downtown (not so pretty)
 
 
