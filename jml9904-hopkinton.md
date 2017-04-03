@@ -12,5 +12,5 @@ This is text. I use vim... a real programmer's editor :)
 
 ### Places to Avoid
 
-- Watch for the cops on Purchase Street.
+- Watch for the cops on Purchase Street because Milford relies on high taxes, high utilities, and traffic fines to stay fiscally afloat.
 
