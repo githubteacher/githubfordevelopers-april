@@ -8,6 +8,8 @@
 ### Places to Visit
 - Coronado
 - Mission bay
+- Pacific beach
 
 ### Places to Avoid
-- East County
+- East County (very hot and people can be mean.)
+
