@@ -10,4 +10,4 @@
 - Balboa Park
 
 ### Places to Avoid
-- East County
+- East County (It is 20 degrees hotter than the rest of San Diego and some people are mean.)
