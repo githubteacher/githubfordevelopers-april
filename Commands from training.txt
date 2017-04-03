@@ -7,3 +7,5 @@ Linux : git config --global core.autocrlf input
 git config --global push.default simple
 Show all of the branche on remote : git branch --all
 git checkout shidhupatil1149
+git remote -v
+git status
