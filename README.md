@@ -1,4 +1,6 @@
 # GitHub for Developers
+# Let's make a change
+# A really, really big change
 
 - Facilitator:
   - @hollenberry :microphone:
