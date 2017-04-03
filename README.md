@@ -12,6 +12,8 @@
 
 ## Resources
 
+
+
 - [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [Git Cheat Sheets](https://services.github.com/resources/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
