@@ -8,4 +8,4 @@
 - JK Bridge
 
 ### Places to avoid
-- Danger places
+- Danger places, but only that... or not :P
