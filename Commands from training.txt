@@ -30,14 +30,6 @@ fork : fork someone's branch from his repo to a branch in your repository
   git merge --no-ff shidhupatil1149
   git push origin master
 
-<<<<<<< HEAD
-
-# Siddh
-### eat
-- bullet point
-### avoid
-- updating
-=======
 # Try cleaning-up your local repository with: if you get any error while pull / fetch/ push
 $ git gc --prune=now
     - Runs a number of housekeeping tasks within the current repository, such as compressing file revisions (to reduce disk space and increase performance) and removing unreachable objects which may have been
