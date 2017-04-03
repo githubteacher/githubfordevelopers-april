@@ -4,6 +4,7 @@
 - Dunkin donuts
 - REd Robin
 - Carrabas
+- Or drive to Georgetown! 
 
 ### Places to visit 
 - Mokey Joes
