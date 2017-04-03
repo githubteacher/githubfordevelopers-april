@@ -14,4 +14,4 @@
 
 ### Places to Avoid
 
-- Main Street during rush hour
+- Main Street during rush hour (unless you like sitting in traffic)
