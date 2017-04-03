@@ -5,6 +5,6 @@
 - Sublime
 ### Places to Visit
 - Coronada Island
-- Ba
+- Balboa
 ### Places to Avoid
-
+- tha bad places
