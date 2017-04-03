@@ -9,4 +9,4 @@
 - Santa Monica Pier
 
 ### Places to avoid 
-- Mama's Kitchen
+- Mama's Kitchen (Shhhh)
