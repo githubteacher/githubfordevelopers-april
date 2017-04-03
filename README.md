@@ -11,7 +11,7 @@
 - **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
 
 ## Resources
-
+## Test
 - [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [Git Cheat Sheets](https://services.github.com/resources/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
