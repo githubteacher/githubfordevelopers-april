@@ -1,12 +1,11 @@
 # Boston, MA
 
 ### Places to Eat
-Kelly's Roast Beef
+- Kelly's Roast Beef
 
 ### Places to Visit
-Salem
+- Salem
 
 ### Places to Avoid
-
-Roxbury
-Lawerance
+- Roxbury
+- Lawrence
