@@ -10,5 +10,5 @@
 - Frankies fun park
 
 ### Places to Avoid
-
+- none
 
