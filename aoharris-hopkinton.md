@@ -9,5 +9,5 @@
 - Franklyn Zoo
 
 ### Places to Avoid
-- Syria
+- Syria , Maybe Iraq
 
