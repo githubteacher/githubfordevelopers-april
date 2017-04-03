@@ -8,3 +8,4 @@
 - Dean Park
 
 ### Places to Avoid
+- Not that I can think of. Its a fun lively town.
