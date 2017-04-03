@@ -1,7 +1,7 @@
 # St. Catharines, ON
 
 ### Places to Eat
--Thorold Fish and Chips and Things: Really good schawarma
+-Thorold Fish and Chips and Things: Really good shawarma, even though it's named after fish and chips
 -Donnelly's Pub: Very good pub food
 
 ### Places to Visit
