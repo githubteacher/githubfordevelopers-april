@@ -8,4 +8,4 @@
 - Old Sturbridge Village
 
 ### Places to Avoid
-- Route 20
+- Route 20 (People drive too fast; road is too narrow)
