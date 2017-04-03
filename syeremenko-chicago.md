@@ -10,4 +10,4 @@
 - Balboa Park
 
 ### Places to Avoid
-- East County
+- East County (no such thing in Chicago)
