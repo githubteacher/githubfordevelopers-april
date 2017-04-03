@@ -9,5 +9,5 @@
 - Coca-Cola
 
 ### Place to Avoid
-- OTP
+- OTP (outside the perimeter)
 - Atlantic Station
