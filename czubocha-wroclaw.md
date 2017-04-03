@@ -10,4 +10,4 @@
 - Ostrów Tumski
 
 ### Places to Avoid
-- Trójkąt
+- Trójkąt (it is a little bit dangerous place)
