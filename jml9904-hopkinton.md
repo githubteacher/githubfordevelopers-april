@@ -1,2 +1,16 @@
+# Greetings from Beautiful Downtown Hopkinton
+
 This is text. I use vim... a real programmer's editor :)
+
+### Places to Eat
+
+You have to be kidding. There's not much here.
+
+### Places to Visit
+
+Well, there's the start of the Boston Marathon...
+
+### Places to Avoid
+
+What's left?
 
