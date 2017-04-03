@@ -2,7 +2,7 @@
 
 ### Places to Eat
  - Davio's
- - McDonalds
+ - McDonalds (if you have kids, that is...)
  - Papa Gino's
 
 ### Places to Visit
