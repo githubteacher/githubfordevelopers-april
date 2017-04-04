@@ -10,6 +10,7 @@
 - The Stockyards
 - Six Flags
 - Downtown (Sundance Square)
+- Kimbell Art Museum
 
 ### Places to Avoid
 - Scary places
