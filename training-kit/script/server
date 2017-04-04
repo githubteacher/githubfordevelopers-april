@@ -1,0 +1,6 @@
+#!/bin/sh
+
+script/update
+script/cibuild
+
+bundle exec jekyll serve --watch "$@"
