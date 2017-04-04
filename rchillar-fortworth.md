@@ -14,3 +14,4 @@
 ### Places to Avoid
 - Scary places
 - Tornado places
+- Paintball places
