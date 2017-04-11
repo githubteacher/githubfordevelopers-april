@@ -1,0 +1,198 @@
+1491240400:0;ls
+: 1491240475:0;cd Desktop
+: 1491240506:0;mkdir classrepo
+: 1491240535:0;ls
+: 1491240573:0;cd classrepo
+: 1491240662:0;git clone https://github.com/githubteacher/githubfordevelopers-april.git
+: 1491240723:0;ls
+: 1491240730:0;cd githubfordevelopers-april
+: 1491240891:0;git config --global --list
+: 1491241006:0;git config --global user.name "Eric Hollenberry"
+: 1491241075:0;git config --global user.email hollenberry@github.com
+: 1491241123:0;WINDOWS - git config --global core.autocrlf true
+: 1491241136:0;MACLINUX - git config --global core.autocrlf input
+: 1491241201:0;git config --global push.default simple
+: 1491241234:0;git config --global --list
+: 1491241438:0;git branch
+: 1491241479:0;git branch --all
+: 1491241536:0;git checkout YOURBRANCHNAME
+: 1491241541:0;git checkout githubteacher-sandiego 
+: 1491241878:0;git status
+: 1491241985:0;git checkout master
+: 1491241992:0;git branch
+: 1491242027:0;git branch --all
+: 1491242062:0;git pull
+: 1491242139:0;git checkout githubteacher-sandiego
+: 1491242186:0;git status
+: 1491242217:0;git add githubteacher-sandiego.md
+: 1491242234:0;git status
+: 1491242506:0;git commit -m "Add Eric's San Diego file"
+: 1491242530:0;git status
+: 1491242558:0;git push
+: 1491244158:0;git status
+: 1491244178:0;git add githubteacher-sandiego.md
+: 1491244212:0;git commit -m "Add stubs to SD CA rec file"
+: 1491244245:0;git push
+: 1491244387:0;git status
+: 1491244420:0;git add githubteacher-sandiego.md
+: 1491244426:0;git status
+: 1491244441:0;git commit -m "Add recommendations to SD CA file"
+: 1491244498:0;git push
+: 1491245857:0;git checkout master 
+: 1491245867:0;git pull
+: 1491245891:0;git branch
+: 1491245904:0;git branch -d githubteacher-sandiego 
+: 1491245926:0;git branch --all
+: 1491245941:0;git pull --prune
+: 1491245959:0;git pull
+: 1491245965:0;git pull --prune
+: 1491257577:0;git update-ref -d
+: 1491257586:0;git branch 
+: 1491257607:0;git update-ref -d origin/kumardss-Hyderabad
+: 1491257631:0;git update-ref -d remotes/origin/kumardss-HYderabad
+: 1491257636:0;git update-ref -d remotes/origin/kumardss-Hyderabad
+: 1491257849:0;git update-ref -d refs/remotes/origin/kumardss\
+
+: 1491257853:0;git pull
+: 1491320638:0;cd ..
+: 1491320662:0;cd Documents/GitHub/services-training
+: 1491320670:0;script/reset-game
+: 1491320713:0;cd ..
+: 1491320733:0;cd ../../Desktop/classrepo
+: 1491320738:0;ls
+: 1491322980:0;clear
+: 1491322988:0;cd githubfordevelopers-april
+: 1491323009:0;------------------------------
+: 1491323011:0;---------------
+: 1491323013:0;------------
+: 1491323014:0;-------
+: 1491323015:0;-----
+: 1491323016:0;-
+: 1491323042:0;ls
+: 1491323052:0;cd ..
+: 1491323083:0;ls
+: 1491323090:0;cd Desktop
+: 1491323096:0;cd classrepo
+: 1491323142:0;git clone https://github.com/githubteacher/github-games.git
+: 1491323198:0;ls
+: 1491323213:0;cd github-games
+: 1491323433:0;git branch readme-update
+: 1491323477:0;git branch
+: 1491323491:0;git checkout readme-update 
+: 1491323549:0;git status
+: 1491323617:0;git add README.md
+: 1491323648:0;git status
+: 1491323692:0;git commit -m "Update README url"
+: 1491323720:0;git push
+: 1491323774:0;git push --set-upstream origin readme-update
+: 1491324434:0;git checkout gh-pages
+: 1491324463:0;git pull
+: 1491324488:0;git branch
+: 1491324499:0;git branch -d readme-update
+: 1491324511:0;git branch --all
+: 1491324523:0;git pull --prune
+: 1491324552:0;DEFAULT - git config --global fetch.prune true
+: 1491324704:0;git log
+: 1491324768:0;echo type q to leave that dialog
+: 1491324785:0;git log --oneline
+: 1491324835:0;git log --oneline --graph
+: 1491324877:0;git log --oneline --graph --decorate
+: 1491324911:0;git log --oneline --graph --decorate --all
+: 1491325010:0;git lol
+: 1491325023:0;git lof
+: 1491325134:0;git config --global alias.lol "log --oneline --graph --decorate --all"
+: 1491325138:0;git lol
+: 1491325164:0;git s
+: 1491326531:0;git lol
+: 1491326586:0;git checkout stats-update
+: 1491326617:0;git merge gh-pages
+: 1491326919:0;git status
+: 1491326948:0;git add inde.html
+: 1491326955:0;git status
+: 1491327236:0;git commit
+: 1491327534:0;git checkout master
+: 1491327539:0;git checkout gh-pages
+: 1491327550:0;git merge stats-update
+: 1491327578:0;git push
+: 1491327614:0;git lol
+: 1491327671:0;ls
+: 1491327775:0;git bisect start
+: 1491327801:0;git bisect bad HEAD
+: 1491327830:0;git bisect good b7454c1
+: 1491327861:0;ls
+: 1491327911:0;git bisect bad
+: 1491327913:0;ls
+: 1491327927:0;git bisect bad
+: 1491327929:0;ls
+: 1491327943:0;git bisect good
+: 1491328029:0;git bisect reset
+: 1491328039:0;ls
+: 1491328092:0;git bisect start HEAD b7454
+: 1491328110:0;git bisect run ls index.html
+: 1491328146:0;git bisect reset
+: 1491328206:0;git revert 27104
+: 1491328271:0;git push
+: 1491328401:0;git checkout -b change-speed
+: 1491328462:0;LINE 9 - Change texture.jpg to images/texture.jpg
+: 1491328488:0;LINE 78 - Change the speed of the start value
+: 1491328546:0;git status
+: 1491328572:0;mkdir images
+: 1491328581:0;git status
+: 1491328605:0;git mv texture.jpg images/texture.jpg
+: 1491328683:0;git status
+: 1491328709:0;git add -p
+: 1491328785:0;git status
+: 1491328834:0;git diff
+: 1491328878:0;git diff --staged
+: 1491328887:0;git diff HEAD
+: 1491328913:0;git status
+: 1491328933:0;git commit -m "Move texture jpg"
+: 1491328944:0;git add -p
+: 1491328952:0;git status
+: 1491328981:0;git commit -m "Change speed"
+: 1491329882:0;git checkout shape-colors
+: 1491329971:0;git pull
+: 1491330035:0;git status
+: 1491330038:0;git add inde.html
+: 1491330044:0;git commit -m "Change colors to black"
+: 1491330299:0;git remote -v
+: 1491330414:0;git remote add upstream https://github.com/githubschool/github-games.git
+: 1491330457:0;git remote -v
+: 1491330491:0;git branch --all
+: 1491330517:0;git fetch upstream
+: 1491330536:0;git branch --all
+: 1491330562:0;git pull upstream
+: 1491330583:0;git merge upstream/shape-colors
+: 1491330759:0;git status
+: 1491330763:0;git add inde.html
+: 1491330777:0;git commit -m "Change colors to rainbow"
+: 1491330873:0;git push
+: 1491331588:0;cd ..
+: 1491331594:0;git init newrepo
+: 1491331599:0;for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done
+: 1491331604:0;cd newrepo
+: 1491331605:0;for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done
+: 1491331611:0;git lol
+: 1491331668:0;git reset --soft HEAD~2
+: 1491331680:0;git status
+: 1491331705:0;git add file5.md file6.md
+: 1491331724:0;git commit -m "Add file 5 and 6"
+: 1491331744:0;git reset HEAD~
+: 1491331753:0;git status
+: 1491331756:0;git lol
+: 1491331783:0;git add file5.md file6.md
+: 1491331788:0;git commit -m "Add file 5 and 6"
+: 1491331790:0;git lol
+: 1491331810:0;git reset --hard 0a5b78e
+: 1491331813:0;git lol
+: 1491331821:0;ls
+: 1491331824:0;git status
+: 1491331855:0;git reflog
+: 1491332006:0;git cherry-pick b25443f 22eb6b5
+: 1491332009:0;git lol
+: 1491332024:0;git reset --hard HEAD~2
+: 1491332025:0;git lol
+: 1491332041:0;git cherry-pick e1251c7 22eb6b5
+: 1491332042:0;git lol
+: 1491332318:0;open ~.zhistory
+: 1491332325:0;open ~/.zhistory
