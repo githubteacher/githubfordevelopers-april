@@ -8,3 +8,4 @@
 
 ### don't go
 - commuter trains (great!)
+- seashore 
