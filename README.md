@@ -1,17 +1,18 @@
 # GitHub for Developers
+# Let's make a change
+# A really, really big change
 
 - Facilitator:
   - @hollenberry :microphone:
 - On Chat
-  - @brianamarie :computer:
+  - @brianamarie :computer:  
 
-## Scripts for Adding Files
+## Scripts for Adding Files, test
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
 - **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
 
 ## Resources
-
 - [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [Git Cheat Sheets](https://services.github.com/resources/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -32,3 +33,5 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub's On Demand Training](https://services.github.com/on-demand/)
 - [Recommended Path for Learning More](https://services.github.com/on-demand/path/)
 - [A Curated List of our Favorite Resources](https://services.github.com/classnotes/)
+
+# [Post Class Survey :tada: :heart: :sparkles:](http://www.surveygizmo.com/s3/3288613/aed489e0967d)
